@@ -5,10 +5,17 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - random
+  - glob
+  - time
   - scipy
   - sklearn
   - simpy
+  - openpyxl
   - pygad
   - basyx
   - seaborn
+  - ultralytics
+  - os
+  - torch
   - label-studio
