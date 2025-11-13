@@ -11,3 +11,4 @@ dependencies:
   - pygad
   - basyx
   - seaborn
+  - label-studio
